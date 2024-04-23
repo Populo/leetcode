@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/PencilsConfiguration/ActualSeverity/@EntryValue">SUGGESTION</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=06fc4610_002Dd9f7_002D448d_002Daa73_002D12955b54ae7c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TwoSumTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::00662609-8BD4-4B0D-977A-802D8E42EF24::net8.0::LeetCode.Tests.TwoSumTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::00662609-8BD4-4B0D-977A-802D8E42EF24::net8.0::LeetCode.Tests.SortListNodeTests.SortListNode_EqualsOverride_1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::00662609-8BD4-4B0D-977A-802D8E42EF24::net8.0::LeetCode.Tests.SortListNodeTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::00662609-8BD4-4B0D-977A-802D8E42EF24::net8.0::LeetCode.Tests.MergeSortedArrayTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
